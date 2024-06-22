@@ -1,4 +1,1 @@
-nginx
-
-
-xwiki:stable-postgres-tomcat
+xwiki:stable-postgres
